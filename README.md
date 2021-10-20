@@ -1,6 +1,6 @@
 # custom_dropdown_example
 
-How to open DropdownButton when other widget is tapped, in Flutter?
+How to open DropdownButton when other widget/button is tapped, in Flutter?
 
 Example:
 
