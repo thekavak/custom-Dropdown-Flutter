@@ -5,7 +5,7 @@ How to open DropdownButton when other widget is tapped, in Flutter?
 ## Getting Started
 
 Example:
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+![](https://github.com/thekavak/custom-Dropdown-Flutter/blob/master/asset/example.gif)
 
 
 This example was created based on the share on stackoverflow.
